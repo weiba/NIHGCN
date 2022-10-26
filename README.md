@@ -63,3 +63,7 @@ All *main*.py files can complete a single experiment. Because of the randomness 
 
 # Contact
 If you have any question regard our code or data, please do not hesitate to open a issue or directly contact me (weipeng1980@gmail.com).
+
+#PS
+The file cell_exprs.csv for the ccle dataset locates at “ NIHGCN/Data/CCLE/cell_gene/”. It is too large to upload to github, so we divided it into several zip files. Simlarly, the file cell_exprs.csv for the GDSC dataset locates at “ NIHGCN/Data/GDSC/cell_gene/”
+
